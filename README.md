@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Pui Yuen Zhuang （庄培源）
 
-🎓 MSc in Integrated Machine Learning Systems, University College London (2024 – 2025)  
-🎓 BEng in Electronic and Communications Engineering, University of Leeds (2021 – 2024)  
+🎓 **MSc in Integrated Machine Learning Systems**, University College London (2024 – 2025)  
+🎓 **BEng in Electronic and Communications Engineering**, University of Leeds (2021 – 2024)  
 
-💡 Interests: Artificial Intelligence · Machine Learning · Deep Learning · Embedded Systems  
+💡 **Interests**: Artificial Intelligence · Machine Learning · Deep Learning · Embedded Systems  
 
 ---
 
